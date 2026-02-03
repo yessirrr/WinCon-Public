@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "expiresAt": 1770116231887,
+  "data": {
+    "id": "53367",
+    "name": "2GAME eSports",
+    "shortName": "2G",
+    "region": "LATAM",
+    "players": [
+      {
+        "id": "32268",
+        "name": "silentzz",
+        "teamId": "53367",
+        "teamName": "2GAME eSports",
+        "region": "LATAM",
+        "role": "sentinel"
+      },
+      {
+        "id": "32032",
+        "name": "spikeziN",
+        "teamId": "53367",
+        "teamName": "2GAME eSports",
+        "region": "LATAM",
+        "role": "duelist"
+      },
+      {
+        "id": "32033",
+        "name": "Lz",
+        "teamId": "53367",
+        "teamName": "2GAME eSports",
+        "region": "LATAM",
+        "role": "controller"
+      },
+      {
+        "id": "3315",
+        "name": "gobera",
+        "teamId": "53367",
+        "teamName": "2GAME eSports",
+        "region": "LATAM",
+        "role": "controller"
+      },
+      {
+        "id": "32030",
+        "name": "pryze",
+        "teamId": "53367",
+        "teamName": "2GAME eSports",
+        "region": "LATAM",
+        "role": "initiator"
+      }
+    ]
+  }
+}

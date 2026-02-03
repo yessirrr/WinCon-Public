@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "expiresAt": 1770116165999,
+  "data": {
+    "teamId": "3412",
+    "teamName": "LOUD",
+    "players": [
+      {
+        "id": "277",
+        "name": "pANcada",
+        "teamId": "3412",
+        "teamName": "LOUD",
+        "region": "LATAM",
+        "role": "controller"
+      },
+      {
+        "id": "1812",
+        "name": "cauanzin",
+        "teamId": "3412",
+        "teamName": "LOUD",
+        "region": "LATAM",
+        "role": "initiator"
+      },
+      {
+        "id": "1686",
+        "name": "RobbieBk",
+        "teamId": "3412",
+        "teamName": "LOUD",
+        "region": "LATAM",
+        "role": "initiator"
+      },
+      {
+        "id": "32337",
+        "name": "luk xo",
+        "teamId": "3412",
+        "teamName": "LOUD",
+        "region": "LATAM",
+        "role": "sentinel"
+      },
+      {
+        "id": "10901",
+        "name": "Virtyy",
+        "teamId": "3412",
+        "teamName": "LOUD",
+        "region": "LATAM",
+        "role": "duelist"
+      }
+    ],
+    "asOfDate": "2025-08-18T00:00:00Z",
+    "matchesAnalyzed": 3
+  }
+}

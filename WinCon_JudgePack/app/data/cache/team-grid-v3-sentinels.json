@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "expiresAt": 1770116357274,
+  "data": {
+    "id": "1079",
+    "name": "Sentinels",
+    "shortName": "SEN",
+    "region": "NA",
+    "players": [
+      {
+        "id": "727",
+        "name": "bang",
+        "teamId": "1079",
+        "teamName": "Sentinels",
+        "region": "NA",
+        "role": "controller"
+      },
+      {
+        "id": "94",
+        "name": "Zellsis",
+        "teamId": "1079",
+        "teamName": "Sentinels",
+        "region": "NA",
+        "role": "sentinel"
+      },
+      {
+        "id": "287",
+        "name": "zekken",
+        "teamId": "1079",
+        "teamName": "Sentinels",
+        "region": "NA",
+        "role": "duelist"
+      },
+      {
+        "id": "2512",
+        "name": "johnqt",
+        "teamId": "1079",
+        "teamName": "Sentinels",
+        "region": "NA",
+        "role": "controller"
+      },
+      {
+        "id": "11013",
+        "name": "N4RRATE",
+        "teamId": "1079",
+        "teamName": "Sentinels",
+        "region": "NA",
+        "role": "initiator"
+      }
+    ]
+  }
+}

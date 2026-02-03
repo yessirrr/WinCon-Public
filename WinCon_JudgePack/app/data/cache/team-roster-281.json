@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "expiresAt": 1770116326082,
+  "data": {
+    "id": "281",
+    "name": "Evil Geniuses",
+    "shortName": "EG",
+    "region": "NA",
+    "players": [
+      {
+        "id": "14940",
+        "name": "icy",
+        "teamId": "281",
+        "teamName": "Evil Geniuses",
+        "region": "NA",
+        "role": "duelist"
+      },
+      {
+        "id": "306",
+        "name": "Derrek",
+        "teamId": "281",
+        "teamName": "Evil Geniuses",
+        "region": "NA",
+        "role": "initiator"
+      },
+      {
+        "id": "303",
+        "name": "NaturE",
+        "teamId": "281",
+        "teamName": "Evil Geniuses",
+        "region": "NA",
+        "role": "initiator"
+      },
+      {
+        "id": "866",
+        "name": "yay",
+        "teamId": "281",
+        "teamName": "Evil Geniuses",
+        "region": "NA",
+        "role": "controller"
+      },
+      {
+        "id": "307",
+        "name": "supamen",
+        "teamId": "281",
+        "teamName": "Evil Geniuses",
+        "region": "NA",
+        "role": "controller"
+      }
+    ]
+  }
+}

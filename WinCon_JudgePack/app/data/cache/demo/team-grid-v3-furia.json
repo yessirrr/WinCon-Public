@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "expiresAt": 1770010895632,
+  "data": {
+    "id": "99",
+    "name": "FURIA",
+    "shortName": "FUR",
+    "region": "LATAM",
+    "players": [
+      {
+        "id": "272",
+        "name": "tuyz",
+        "teamId": "99",
+        "teamName": "FURIA",
+        "region": "LATAM",
+        "role": "controller"
+      },
+      {
+        "id": "48",
+        "name": "Heat",
+        "teamId": "99",
+        "teamName": "FURIA",
+        "region": "LATAM",
+        "role": "controller"
+      },
+      {
+        "id": "42",
+        "name": "Urango",
+        "teamId": "99",
+        "teamName": "FURIA",
+        "region": "LATAM",
+        "role": "sentinel"
+      },
+      {
+        "id": "206",
+        "name": "adverso",
+        "teamId": "99",
+        "teamName": "FURIA",
+        "region": "LATAM",
+        "role": "initiator"
+      },
+      {
+        "id": "32038",
+        "name": "Palla",
+        "teamId": "99",
+        "teamName": "FURIA",
+        "region": "LATAM",
+        "role": "duelist"
+      }
+    ]
+  }
+}

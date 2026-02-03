@@ -1,0 +1,13 @@
+import type { Team, Player, Match, Region } from '../models/index.js';
+export declare function loadTeams(): Team[];
+export declare function loadMatches(): Match[];
+export declare function getTeamById(teamId: string): Team | undefined;
+export declare function getTeamByName(name: string): Team | undefined;
+export declare function getTeamsByRegion(region: Region): Team[];
+export declare function getPlayerById(playerId: string): Player | undefined;
+export declare function getPlayerByName(name: string): Player | undefined;
+export declare function searchPlayers(query: string): Player[];
+export declare function getMatchById(matchId: string): Match | undefined;
+export declare function getTeamMatches(teamId: string): Match[];
+export declare function getPlayerMatches(playerId: string): Match[];
+export declare function clearCache(): void;

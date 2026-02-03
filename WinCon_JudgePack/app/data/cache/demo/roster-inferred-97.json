@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "expiresAt": 1770010935194,
+  "data": {
+    "teamId": "97",
+    "teamName": "NRG",
+    "players": [
+      {
+        "id": "312",
+        "name": "skuba",
+        "teamId": "97",
+        "teamName": "NRG",
+        "region": "NA",
+        "role": "controller"
+      },
+      {
+        "id": "2513",
+        "name": "brawk",
+        "teamId": "97",
+        "teamName": "NRG",
+        "region": "NA",
+        "role": "initiator"
+      },
+      {
+        "id": "297",
+        "name": "Ethan",
+        "teamId": "97",
+        "teamName": "NRG",
+        "region": "NA",
+        "role": "initiator"
+      },
+      {
+        "id": "2340",
+        "name": "s0m",
+        "teamId": "97",
+        "teamName": "NRG",
+        "region": "NA",
+        "role": "controller"
+      },
+      {
+        "id": "2358",
+        "name": "mada",
+        "teamId": "97",
+        "teamName": "NRG",
+        "region": "NA",
+        "role": "duelist"
+      }
+    ],
+    "asOfDate": "2025-08-31T21:00:00Z",
+    "matchesAnalyzed": 3
+  }
+}

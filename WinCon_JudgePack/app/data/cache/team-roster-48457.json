@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "expiresAt": 1770116129993,
+  "data": {
+    "id": "48457",
+    "name": "KRÜ Esports",
+    "shortName": "KRU",
+    "region": "LATAM",
+    "players": [
+      {
+        "id": "77",
+        "name": "keznitdeuS",
+        "teamId": "48457",
+        "teamName": "KRÜ Esports",
+        "region": "LATAM",
+        "role": "duelist"
+      },
+      {
+        "id": "28813",
+        "name": "Dantedeu5",
+        "teamId": "48457",
+        "teamName": "KRÜ Esports",
+        "region": "LATAM",
+        "role": "duelist"
+      },
+      {
+        "id": "208",
+        "name": "Melser",
+        "teamId": "48457",
+        "teamName": "KRÜ Esports",
+        "region": "LATAM",
+        "role": "controller"
+      },
+      {
+        "id": "3078",
+        "name": "Shyy",
+        "teamId": "48457",
+        "teamName": "KRÜ Esports",
+        "region": "LATAM",
+        "role": "controller"
+      },
+      {
+        "id": "74",
+        "name": "Mazino",
+        "teamId": "48457",
+        "teamName": "KRÜ Esports",
+        "region": "LATAM",
+        "role": "initiator"
+      }
+    ]
+  }
+}

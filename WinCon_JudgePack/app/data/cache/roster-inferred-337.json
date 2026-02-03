@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "expiresAt": 1770116269482,
+  "data": {
+    "teamId": "337",
+    "teamName": "100 Thieves",
+    "players": [
+      {
+        "id": "2341",
+        "name": "eeiu",
+        "teamId": "337",
+        "teamName": "100 Thieves",
+        "region": "NA",
+        "role": "initiator"
+      },
+      {
+        "id": "2361",
+        "name": "Cryo",
+        "teamId": "337",
+        "teamName": "100 Thieves",
+        "region": "NA",
+        "role": "duelist"
+      },
+      {
+        "id": "2359",
+        "name": "Zander",
+        "teamId": "337",
+        "teamName": "100 Thieves",
+        "region": "NA",
+        "role": "controller"
+      },
+      {
+        "id": "119048",
+        "name": "Kess",
+        "teamId": "337",
+        "teamName": "100 Thieves",
+        "region": "NA",
+        "role": "sentinel"
+      },
+      {
+        "id": "296",
+        "name": "Asuna",
+        "teamId": "337",
+        "teamName": "100 Thieves",
+        "region": "NA",
+        "role": "duelist"
+      }
+    ],
+    "asOfDate": "2025-08-25T00:00:00Z",
+    "matchesAnalyzed": 3
+  }
+}

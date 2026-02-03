@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "expiresAt": 1770116196732,
+  "data": {
+    "teamId": "81",
+    "teamName": "MIBR",
+    "players": [
+      {
+        "id": "14",
+        "name": "aspas",
+        "teamId": "81",
+        "teamName": "MIBR",
+        "region": "LATAM",
+        "role": "duelist"
+      },
+      {
+        "id": "10630",
+        "name": "Verno",
+        "teamId": "81",
+        "teamName": "MIBR",
+        "region": "LATAM",
+        "role": "initiator"
+      },
+      {
+        "id": "2837",
+        "name": "artzin",
+        "teamId": "81",
+        "teamName": "MIBR",
+        "region": "LATAM",
+        "role": "controller"
+      },
+      {
+        "id": "3320",
+        "name": "cortezia",
+        "teamId": "81",
+        "teamName": "MIBR",
+        "region": "LATAM",
+        "role": "sentinel"
+      },
+      {
+        "id": "629",
+        "name": "xenom",
+        "teamId": "81",
+        "teamName": "MIBR",
+        "region": "LATAM",
+        "role": "controller"
+      }
+    ],
+    "asOfDate": "2025-08-18T00:00:00Z",
+    "matchesAnalyzed": 3
+  }
+}
