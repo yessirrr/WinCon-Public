@@ -1,7 +1,7 @@
 # WinCon
 
 ## Judges Quick Start (Offline Demo)
-**Do not install anything and do not run any build commands.**
+**Do not install and run any build commands.**
 
 1. Download or clone this repository to a Windows machine.
 2. Open `WinCon_JudgePack/`.
