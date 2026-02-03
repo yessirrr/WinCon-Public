@@ -1,0 +1,31 @@
+# Secrets
+.env
+.env.local
+**/.env
+**/.env.local
+/WinCon_JudgePack/.env
+
+# Root development artifacts
+/node_modules/
+/dist/
+/exports/
+/data/cache/
+/release/
+*.log
+
+# Editor / OS noise
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local scratch files
+/.output.txt
+/repo_structure.txt
+/src_structure.txt
+
+# Judge pack runtime outputs (keep required binaries/cache tracked)
+/WinCon_JudgePack/logs/*
+!/WinCon_JudgePack/logs/.gitkeep
+/WinCon_JudgePack/app/exports/*
+!/WinCon_JudgePack/app/exports/.gitkeep
